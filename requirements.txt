@@ -1,0 +1,10 @@
+jupyter
+ipykernel
+scikit-learn<=1.2.1
+scikit-optimize
+pandas
+numpy
+openpyxl
+pyarrow
+mlflow
+seaborn
