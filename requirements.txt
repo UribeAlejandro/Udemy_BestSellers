@@ -8,3 +8,4 @@ openpyxl
 pyarrow
 mlflow
 seaborn
+imbalanced-learn

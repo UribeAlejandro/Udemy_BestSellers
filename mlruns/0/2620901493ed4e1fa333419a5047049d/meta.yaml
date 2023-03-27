@@ -1,0 +1,15 @@
+artifact_uri: /mnt/Documents/Personal/Learning/University/AprendizajeAutomatico/Udemy_BestSellers/notebooks/../mlruns/0/2620901493ed4e1fa333419a5047049d/artifacts
+end_time: 1679853624146
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2620901493ed4e1fa333419a5047049d
+run_name: aged-swan-388
+run_uuid: 2620901493ed4e1fa333419a5047049d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679853616374
+status: 3
+tags: []
+user_id: uribe

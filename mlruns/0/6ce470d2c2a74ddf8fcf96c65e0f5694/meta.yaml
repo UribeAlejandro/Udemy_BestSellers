@@ -1,0 +1,15 @@
+artifact_uri: /mnt/Documents/Personal/Learning/University/AprendizajeAutomatico/Udemy_BestSellers/notebooks/../mlruns/0/6ce470d2c2a74ddf8fcf96c65e0f5694/artifacts
+end_time: 1679856038695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ce470d2c2a74ddf8fcf96c65e0f5694
+run_name: learned-sow-219
+run_uuid: 6ce470d2c2a74ddf8fcf96c65e0f5694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679855889700
+status: 3
+tags: []
+user_id: uribe

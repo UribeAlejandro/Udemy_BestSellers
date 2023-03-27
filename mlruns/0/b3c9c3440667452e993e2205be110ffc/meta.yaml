@@ -1,0 +1,15 @@
+artifact_uri: /mnt/Documents/Personal/Learning/University/AprendizajeAutomatico/Udemy_BestSellers/notebooks/../mlruns/0/b3c9c3440667452e993e2205be110ffc/artifacts
+end_time: 1679853609770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3c9c3440667452e993e2205be110ffc
+run_name: upset-swan-714
+run_uuid: b3c9c3440667452e993e2205be110ffc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679853602302
+status: 3
+tags: []
+user_id: uribe

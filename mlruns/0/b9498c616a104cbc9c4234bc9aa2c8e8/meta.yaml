@@ -1,0 +1,16 @@
+artifact_uri: /mnt/Documents/Personal/Learning/University/AprendizajeAutomatico/Udemy_BestSellers/notebooks/../mlruns/0/b9498c616a104cbc9c4234bc9aa2c8e8/artifacts
+deleted_time: 1679853627212
+end_time: 1679853337417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b9498c616a104cbc9c4234bc9aa2c8e8
+run_name: sedate-gull-162
+run_uuid: b9498c616a104cbc9c4234bc9aa2c8e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679853337396
+status: 4
+tags: []
+user_id: uribe

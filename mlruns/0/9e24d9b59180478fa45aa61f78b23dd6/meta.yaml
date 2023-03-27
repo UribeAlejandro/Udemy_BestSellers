@@ -1,0 +1,15 @@
+artifact_uri: /mnt/Documents/Personal/Learning/University/AprendizajeAutomatico/Udemy_BestSellers/notebooks/../mlruns/0/9e24d9b59180478fa45aa61f78b23dd6/artifacts
+end_time: 1679851260630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e24d9b59180478fa45aa61f78b23dd6
+run_name: blushing-trout-995
+run_uuid: 9e24d9b59180478fa45aa61f78b23dd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679851256724
+status: 3
+tags: []
+user_id: uribe

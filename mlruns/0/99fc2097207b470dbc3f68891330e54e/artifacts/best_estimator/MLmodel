@@ -1,0 +1,30 @@
+artifact_path: best_estimator
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.1
+mlflow_version: 2.2.2
+model_uuid: 87a8bcb55c3d47b8a438fb303e09f8cc
+run_id: 99fc2097207b470dbc3f68891330e54e
+signature:
+  inputs: '[{"name": "num_published_lectures", "type": "long"}, {"name": "num_published_practice_tests",
+    "type": "long"}, {"name": "rating", "type": "double"}, {"name": "list_price",
+    "type": "double"}, {"name": "discount_price", "type": "double"}, {"name": "is_practice_test_course",
+    "type": "boolean"}, {"name": "es_CL", "type": "boolean"}, {"name": "es_CO", "type":
+    "boolean"}, {"name": "es_ES", "type": "boolean"}, {"name": "es_LA", "type": "boolean"},
+    {"name": "es_MX", "type": "boolean"}, {"name": "es_VE", "type": "boolean"}, {"name":
+    "year", "type": "integer"}, {"name": "month", "type": "integer"}, {"name": "day",
+    "type": "integer"}, {"name": "len_title", "type": "long"}, {"name": "len_headline",
+    "type": "long"}, {"name": "isInstructorBestseller", "type": "boolean"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+utc_time_created: '2023-03-26 18:23:11.267215'

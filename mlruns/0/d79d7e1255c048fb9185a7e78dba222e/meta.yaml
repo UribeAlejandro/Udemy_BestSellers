@@ -1,0 +1,15 @@
+artifact_uri: /mnt/Documents/Personal/Learning/University/AprendizajeAutomatico/Udemy_BestSellers/notebooks/../mlruns/0/d79d7e1255c048fb9185a7e78dba222e/artifacts
+end_time: 1679853746821
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d79d7e1255c048fb9185a7e78dba222e
+run_name: amusing-fish-430
+run_uuid: d79d7e1255c048fb9185a7e78dba222e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679853740131
+status: 3
+tags: []
+user_id: uribe

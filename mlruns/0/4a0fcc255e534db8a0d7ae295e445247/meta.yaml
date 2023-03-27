@@ -1,0 +1,15 @@
+artifact_uri: /mnt/Documents/Personal/Learning/University/AprendizajeAutomatico/Udemy_BestSellers/notebooks/../mlruns/0/4a0fcc255e534db8a0d7ae295e445247/artifacts
+end_time: 1679853754933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a0fcc255e534db8a0d7ae295e445247
+run_name: rare-grouse-545
+run_uuid: 4a0fcc255e534db8a0d7ae295e445247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679853746900
+status: 3
+tags: []
+user_id: uribe

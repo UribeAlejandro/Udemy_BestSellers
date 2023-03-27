@@ -1,3 +1,7 @@
+# Pickle
+*.pkl
+**/*.pkl
+
 # Other
 .vscode/
 .idea/
